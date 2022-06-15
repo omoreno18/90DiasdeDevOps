@@ -20,15 +20,15 @@ Dar las gracias al autor original del repo en Ingles [@MichaelCade1](https://twi
 
 ## Progreso 
 
-- [✔️] ♾️ 1 > [Introduction](Days/day01.md)
+- [✔️] ♾️ 1 > [Introducción](Days/day01.md)
 
-### What is and why do we use DevOps
+### Qué es y por qué debemos usar DevOps
 
-- [✔️] ♾️ 2 > [Responsibilities of a DevOps Engineer](Days/day02.md)
-- [✔️] ♾️ 3 > [DevOps Lifecycle - Application Focused](Days/day03.md)
+- [✔️] ♾️ 2 > [Responsabilidades de un Ingeniero DevOps](Days/day02.md)
+- [✔️] ♾️ 3 > [Ciclo de Vida DevOps - Centrado siempre en la Aplicación](Days/day03.md)
 - [✔️] ♾️ 4 > [DevOps & Agile](Days/day04.md)
 - [✔️] ♾️ 5 > [Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >](Days/day05.md)
-- [✔️] ♾️ 6 > [DevOps - The real stories](Days/day06.md)
+- [✔️] ♾️ 6 > [DevOps - Las historias reales](Days/day06.md)
 
 ### Learning a Programming Language
 
